@@ -1,0 +1,1 @@
+#define linkMeridian "https://colorspire.com/rgb-color-wheel/"

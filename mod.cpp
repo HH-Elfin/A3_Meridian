@@ -1,0 +1,16 @@
+name = "Arma 3 Meridian";
+author = "Convair Digital"
+//actionName = "test"; // TODO fix these links
+//action = "https://colorspire.com/rgb-color-wheel/";
+description = "Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Jovian Imperial Union.";
+tooltip = "Arma 3 Meridian";
+tooltipOwned = "Arma 3 Meridian";
+//picture = "\Data_F_Meridian\Logos\meridian_picture_CA.paa";
+//logo = "\Data_F_Meridian\Logos\meridian_logo_CA.paa";
+//logoOver = "\Data_F_Meridian\Logos\meridian_logoOver_CA.paa";
+//logoSmall = "\Data_F_Meridian\Logos\meridian_logo_small_CA.paa";
+dlcColor[] ={0.17,0.21,0.43,1.0};
+overview = "Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Jovian Imperial Union.";
+overviewText = "Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Jovian Imperial Union.";
+hideName = 1;
+hidePicture = 0;

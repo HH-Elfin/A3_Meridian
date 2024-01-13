@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3Meridian">
+	<Package name="Language_Meridian">
+		<Container name="Data_F">
+			<Container name="Author">
+				<Key ID="STR_A3_Meridian_ConvairDigital">
+					<Original>Convair Digital</Original>
+					<Chinese>Convair Digital</Chinese>
+					<French>Convair Digital</French>
+					<Spanish>Convair Digital</Spanish>
+					<Italian>Convair Digital</Italian>
+					<Polish>Convair Digital</Polish>
+					<Russian>Convair Digital</Russian>
+					<German>Convair Digital</German>
+					<Czech>Convair Digital</Czech>
+					<English>Convair Digital</English>
+					<Portuguese>Convair Digital</Portuguese>
+					<Korean>Convair Digital</Korean>
+					<Chinesesimp>Convair Digital</Chinesesimp>
+					<Japanese>Convair Digital</Japanese>
+					<Turkish>Convair Digital</Turkish>
+				</Key>
+			</Container>
+			<Container name="Faction_Classes">
+				<Key ID="STR_A3_Meridian_CfgFactionClasses_BLU_AF_F0">
+					<Original>Andresian Federation</Original>
+                    <Chinese>Andresian Federation</Chinese>
+                    <French>Andresian Federation</French>
+                    <Spanish>Andresian Federation</Spanish>
+                    <Italian>Andresian Federation</Italian>
+                    <Polish>Andresian Federation</Polish>
+                    <Russian>Andresian Federation</Russian>
+                    <German>Andresian Federation</German>
+                    <Czech>Andresian Federation</Czech>
+                    <English>Andresian Federation</English>
+                    <Portuguese>Andresian Federation</Portuguese>
+                    <Korean>Andresian Federation</Korean>
+                    <Chinesesimp>Andresian Federation</Chinesesimp>
+                    <Japanese>Andresian Federation</Japanese>
+                    <Turkish>Andresian Federation</Turkish>
+				</Key>
+				<Key ID="STR_A3_Meridian_CfgFactionClasses_OPF_JIU_F0">
+                    <Original>Jovian Imperial Union</Original>
+                    <Chinese>Jovian Imperial Union</Chinese>
+                    <French>Jovian Imperial Union</French>
+                    <Spanish>Jovian Imperial Union</Spanish>
+                    <Italian>Jovian Imperial Union</Italian>
+                    <Polish>Jovian Imperial Union</Polish>
+                    <Russian>Jovian Imperial Union</Russian>
+                    <German>Jovian Imperial Union</German>
+                    <Czech>Jovian Imperial Union</Czech>
+                    <English>Jovian Imperial Union</English>
+                    <Portuguese>Jovian Imperial Union</Portuguese>
+                    <Korean>Jovian Imperial Union</Korean>
+                    <Chinesesimp>Jovian Imperial Union</Chinesesimp>
+                    <Japanese>Jovian Imperial Union</Japanese>
+                    <Turkish>Jovian Imperial Union</Turkish>
+				</Key>
+			</Container>
+			<Container name="Editor_Categories">
+				<Key ID="STR_A3_Meridian_CfgEditorSubcategories_EdSubcat_Ships0">
+					<Original>Ships</Original>
+                    <Chinese>Ships</Chinese>
+                    <French>Ships</French>
+                    <Spanish>Ships</Spanish>
+                    <Italian>Ships</Italian>
+                    <Polish>Ships</Polish>
+                    <Russian>Ships</Russian>
+                    <German>Ships</German>
+                    <Czech>Ships</Czech>
+                    <English>Ships</English>
+                    <Portuguese>Ships</Portuguese>
+                    <Korean>Ships</Korean>
+                    <Chinesesimp>Ships</Chinesesimp>
+                    <Japanese>Ships</Japanese>
+                    <Turkish>Ships</Turkish>
+				</Key>
+			</Container>
+		</Container>
+		<Container name="ContentLicensing">
+			<Key ID="STR_A3_Meridian_CfgMods_Meridian_overview0">
+				<Original>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</Original>
+				<Chinese>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</Chinese>
+				<French>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</French>
+				<Spanish>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</Spanish>
+				<Italian>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</Italian>
+				<Polish>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</Polish>
+				<Russian>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</Russian>
+				<German>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</German>
+				<Czech>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</Czech>
+				<English>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</English>
+				<Portuguese>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</Portuguese>
+				<Korean>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</Korean>
+				<Chinesesimp>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</Chinesesimp>
+				<Japanese>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</Japanese>
+				<Turkish>Arma 3 Meridian adds the two main factions from the Perihelion universe into Arma 3: The Andresian Federation and the Andresian Federation.</Turkish>
+			</Key>
+			<Key ID="STR_A3_Meridian_CfgMods_Meridian_name0">
+				<Original>Arma 3 Meridian</Original>
+				<Chinese>Arma 3 Meridian</Chinese>
+				<French>Arma 3 Meridian</French>
+				<Spanish>Arma 3 Meridian</Spanish>
+				<Italian>Arma 3 Meridian</Italian>
+				<Polish>Arma 3 Meridian</Polish>
+				<Russian>Arma 3 Meridian</Russian>
+				<German>Arma 3 Meridian</German>
+				<Czech>Arma 3 Meridian</Czech>
+				<English>Arma 3 Meridian</English>
+				<Portuguese>Arma 3 Meridian</Portuguese>
+				<Korean>Arma 3 Meridian</Korean>
+				<Chinesesimp>Arma 3 Meridian</Chinesesimp>
+				<Japanese>Arma 3 Meridian</Japanese>
+				<Turkish>Arma 3 Meridian</Turkish>
+			</Key>
+			<Key ID="STR_A3_Meridian_CfgMods_Meridian_nameShort0">
+				<Original>Meridian</Original>
+				<Chinese>Meridian</Chinese>
+				<French>Meridian</French>
+				<Spanish>Meridian</Spanish>
+				<Italian>Meridian</Italian>
+				<Polish>Meridian</Polish>
+				<Russian>Meridian</Russian>
+				<German>Meridian</German>
+				<Czech>Meridian</Czech>
+				<English>Meridian</English>
+				<Portuguese>Meridian</Portuguese>
+				<Korean>Meridian</Korean>
+				<Chinesesimp>Meridian</Chinesesimp>
+				<Japanese>Meridian</Japanese>
+				<Turkish>Meridian</Turkish>
+			</Key>
+		</Container>
+	</Package>
+</Project>
